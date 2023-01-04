@@ -1,4 +1,4 @@
-<a href="https://blog.naver.com/dohe2e" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <a href="https://www.youtube.com/channel/UCk0iaC_qtjGi_q9pXd20WJw/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/> <a href="https://velog.io/@doheeklm" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+<a href="https://blog.naver.com/dohe2e" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <a href="https://www.youtube.com/channel/UCk0iaC_qtjGi_q9pXd20WJw/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
  
 <!--
 **doheeklm/doheeklm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
