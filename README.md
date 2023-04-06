@@ -1,4 +1,4 @@
- <a href="https://velog.io/@doheeklm" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> <a href="https://www.youtube.com/channel/UCk0iaC_qtjGi_q9pXd20WJw/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
+ <a href="https://velog.io/@doheeklm" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> <a href="https://www.youtube.com/channel/UCk0iaC_qtjGi_q9pXd20WJw/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/> <a href="https://blog.naver.com/dodo-_" target="_blank"><img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=white"/>
 
  
 <!--
